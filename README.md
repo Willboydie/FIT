@@ -7,16 +7,15 @@ I have started with a simple tkinter visualisation tool which allows any .fit fi
   - "enhanced" speed
 if they exist in the file.
 
-### .fit files are general containers for fitness data, they can contain a wide range of different metrics and any subset of those. I have focussed on metrics relevant to our analysis.
+.fit files are general containers for fitness data, they can contain a wide range of different metrics and any subset of those. I have focussed on metrics relevant to our analysis.
 
 ## Instructions for use
 
-### Run `python -m venv myvenv`
+Run `python -m venv myvenv`
 
-### Run `source myvenv/bin/activate`
+Run `source myvenv/bin/activate`
 
-### Run `pip install`
+Run `pip install`
 
-### Run `python fit_file_viewer.py`
-to open the .fit file visualisation tool.
+Run `python fit_file_viewer.py` to open the .fit file visualisation tool.
 
